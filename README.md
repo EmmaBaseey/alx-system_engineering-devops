@@ -1,1 +1,1 @@
-My initial readme
+shell_permissions
